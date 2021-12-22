@@ -496,14 +496,14 @@ CONTACTUS
 
 ## OUTPUT:
 
+### HOME PAGE:
+![output 1](./images/DDD1.png)
 ### PRODUCT PAGE:
-![output 1](./images/pro1.png)
-### PRODUCT PAGE:
-![outout 2](./images/pro2.png)
+![outout 2](./images/DDD2.png)
 ### PEOPLE PAGE:
-![outout 3](./images/pro3.png)
-### Contact us  PAGE:
-![outout 4](./images/pro4.png)
+![outout 3](./images/DDD3.png)
+### CONTACTUS  PAGE:
+![outout 4](./images/DDD4.png)
 
 ## Result:
 
